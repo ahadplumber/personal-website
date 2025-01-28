@@ -1,4 +1,7 @@
 {
+    "name": "ahad-plumber",
+    "version": "1.0.0",
+    "description": "Ahad Plumber's personal website",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
