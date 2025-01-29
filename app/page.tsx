@@ -27,14 +27,14 @@ export default function Page() {
               </p>
 
               <p>
-                I live in New York City, by way of Columbus (OH), by way of Mumbai (India). Keep up with me on{" "}
+                I live in New York City, by way of Columbus, by way of Mumbai. Keep up with me on{" "}
                 <a
                   href="https://x.com/plumberahad"
                   className="font-medium hover:underline"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  X (FKA Twitter)
+                  Twitter
                 </a>{" "}
                 and{" "}
                 <a
